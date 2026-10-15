@@ -1,0 +1,7 @@
+data/
+*.jsonl
+captcha_keys.json
+used_numbers.json
+__pycache__/
+*.pyc
+.env
